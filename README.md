@@ -72,7 +72,7 @@ This repository includes sample datasets in CSV format that can be used to pract
 
 Ensure you have the following dependencies installed on your system:
 
-* **<code>► INSERT-TEXT-HERE</code>**: `version x.y.z`
+* **JupyterNotebook**
 
 ###  Installation
 
